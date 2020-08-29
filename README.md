@@ -4,7 +4,7 @@ Hi there 👋
 
   - 🌱 I’m currently learning Java, C++
   
-  - 📫 How to reach me: 1916388@sookymung.ac.kr
+  - 📫 How to reach me: ksa8023@naver.com
 
 
 [![Solved.ac
