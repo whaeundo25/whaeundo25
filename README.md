@@ -7,6 +7,8 @@ Hi there 👋
   - 🌱 I’m currently learning Java, C++, React
   
   - 📫 How to reach me: doeun536@gmail.com
+  
+  - 💡 blog: https://whaeun.tistory.com/ 
 
 
 # Activity
