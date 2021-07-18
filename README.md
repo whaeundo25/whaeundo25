@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-  - 🌱 I’m currently learning Java, C++, React
+  - 🌱 I’m currently learning C++, React, Node.js
   
   - 📫 How to reach me: doeun536@gmail.com
   
