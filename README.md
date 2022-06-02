@@ -22,6 +22,6 @@ Hi there 👋
 
 # Solved.ac Tier
 
-| Mazassumnida | Mazandi | 
-|:-------------------:|:-------------:|
-| <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=whaeun25"> | <img src="http://mazandi.herokuapp.com/api?handle=whaeun25&theme=cold"/> |
+| Mazassumnida | 
+|:-------------------:|
+| <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=whaeun25">  |
