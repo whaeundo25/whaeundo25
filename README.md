@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-  - 🌱 I’m currently learning ```C++```, ```React```, ```Node.js```, ```Spring```, ```Swift```, ```flutter```
+  - 🌱 I’m currently learning ```C++```, ```Swift```, ``Flutter```
   
   - 📫 How to reach me: doeun536@gmail.com
   
